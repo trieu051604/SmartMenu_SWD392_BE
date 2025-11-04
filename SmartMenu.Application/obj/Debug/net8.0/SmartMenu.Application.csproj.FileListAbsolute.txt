@@ -1,0 +1,17 @@
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\bin\Debug\net8.0\SmartMenu.Application.deps.json
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\bin\Debug\net8.0\SmartMenu.Application.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\bin\Debug\net8.0\SmartMenu.Application.pdb
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\SmartMenu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\SmartMenu.Application.AssemblyInfoInputs.cache
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\SmartMenu.Application.AssemblyInfo.cs
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\SmartMenu.Application.csproj.CoreCompileInputs.cache
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\SmartMenu.Application.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\refint\SmartMenu.Application.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\SmartMenu.Application.pdb
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\ref\SmartMenu.Application.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\bin\Debug\net8.0\SmartMenu.Domain.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\bin\Debug\net8.0\SmartMenu.Infrastructure.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\bin\Debug\net8.0\SmartMenu.Infrastructure.pdb
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\bin\Debug\net8.0\SmartMenu.Domain.pdb
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\SmartMenu.Application.csproj.AssemblyReference.cache
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Application\obj\Debug\net8.0\SmartMen.B963B347.Up2Date

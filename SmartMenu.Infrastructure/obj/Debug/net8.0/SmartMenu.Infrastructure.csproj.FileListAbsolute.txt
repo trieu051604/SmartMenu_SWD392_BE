@@ -1,0 +1,17 @@
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\bin\Debug\net8.0\SmartMenu.Infrastructure.deps.json
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\bin\Debug\net8.0\SmartMenu.Infrastructure.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\bin\Debug\net8.0\SmartMenu.Infrastructure.pdb
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.AssemblyInfo.cs
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\refint\SmartMenu.Infrastructure.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.pdb
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\ref\SmartMenu.Infrastructure.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\bin\Debug\net8.0\SmartMenu.Infrastructure.runtimeconfig.json
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.genruntimeconfig.cache
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\bin\Debug\net8.0\SmartMenu.Domain.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\bin\Debug\net8.0\SmartMenu.Domain.pdb
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMen.4EB15AD4.Up2Date

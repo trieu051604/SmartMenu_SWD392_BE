@@ -1,0 +1,324 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Api\\SmartMenu.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Api\\SmartMenu.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Api\\SmartMenu.Api.csproj",
+        "projectName": "SmartMenu.Api",
+        "projectPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Api\\SmartMenu.Api.csproj",
+        "packagesPath": "C:\\Users\\trieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Application\\SmartMenu.Application.csproj": {
+                "projectPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Application\\SmartMenu.Application.csproj"
+              },
+              "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Infrastructure\\SmartMenu.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Infrastructure\\SmartMenu.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Application\\SmartMenu.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Application\\SmartMenu.Application.csproj",
+        "projectName": "SmartMenu.Application",
+        "projectPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Application\\SmartMenu.Application.csproj",
+        "packagesPath": "C:\\Users\\trieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Infrastructure\\SmartMenu.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Infrastructure\\SmartMenu.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Domain\\SmartMenu.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Domain\\SmartMenu.Domain.csproj",
+        "projectName": "SmartMenu.Domain",
+        "projectPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Domain\\SmartMenu.Domain.csproj",
+        "packagesPath": "C:\\Users\\trieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Infrastructure\\SmartMenu.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Infrastructure\\SmartMenu.Infrastructure.csproj",
+        "projectName": "SmartMenu.Infrastructure",
+        "projectPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Infrastructure\\SmartMenu.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\trieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\trieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Domain\\SmartMenu.Domain.csproj": {
+                "projectPath": "C:\\Users\\trieu\\Desktop\\BE_SWD392\\SmartMenu\\SmartMenu.Domain\\SmartMenu.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

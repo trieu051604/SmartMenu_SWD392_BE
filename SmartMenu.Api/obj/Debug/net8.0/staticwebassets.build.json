@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "B3fDfZdtAwvILerk+GnfkWlv479dImGJGgd5BKOJdRo=",
+  "Source": "SmartMenu.Api",
+  "BasePath": "_content/SmartMenu.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
