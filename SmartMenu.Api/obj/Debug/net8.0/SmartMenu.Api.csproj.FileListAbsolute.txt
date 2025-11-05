@@ -33,7 +33,6 @@ C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\obj\Debug\net8.0\refint
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\obj\Debug\net8.0\SmartMenu.Api.pdb
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\obj\Debug\net8.0\SmartMenu.Api.genruntimeconfig.cache
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\obj\Debug\net8.0\ref\SmartMenu.Api.dll
-C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\bin\Debug\net8.0\Humanizer.dll
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -146,3 +145,5 @@ C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\bin\Debug\net8.0\SmartM
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\bin\Debug\net8.0\SmartMenu.Application.pdb
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\bin\Debug\net8.0\SmartMenu.Domain.pdb
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\obj\Debug\net8.0\SmartMenu.Api.sourcelink.json
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

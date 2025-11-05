@@ -15,3 +15,4 @@ C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\ne
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\bin\Debug\net8.0\SmartMenu.Domain.dll
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\bin\Debug\net8.0\SmartMenu.Domain.pdb
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMen.4EB15AD4.Up2Date
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Infrastructure\obj\Debug\net8.0\SmartMenu.Infrastructure.sourcelink.json

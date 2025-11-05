@@ -9,3 +9,4 @@ C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Domain\obj\Debug\net8.0\Sma
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Domain\obj\Debug\net8.0\refint\SmartMenu.Domain.dll
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Domain\obj\Debug\net8.0\SmartMenu.Domain.pdb
 C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Domain\obj\Debug\net8.0\ref\SmartMenu.Domain.dll
+C:\Users\trieu\Desktop\BE_SWD392\SmartMenu\SmartMenu.Domain\obj\Debug\net8.0\SmartMenu.Domain.sourcelink.json
